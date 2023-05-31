@@ -1,0 +1,5 @@
+Hopefully Respawn Timer is no longer broken
+Yeah this works now, horray
+Increased the Tick Rate from 60 to 120, we will see how the server can handle that.
+
+Tick Rate (TPS) is much like Frame Rate (FPS), the higher the tick value, the faster server events happen, such as shooting guns. The hope is that it will make interactions more consistent and smooth

@@ -1,0 +1,10 @@
+Custom Items (A lot of them):
+The Medigun actually works now. This includes healing other players, reviving Zombies to Players, etc. Renamed to Phantom-Pulse
+Implosion Grenades actually works now. Item spawning is now enabled. Up to 3 can spawn on the map per round, with 5 different places for them to spawn. All with the same chance of spawning. Been renamed to Vortex-Grenade. 173 has been set to be immune to the SUCC
+The Sniper Rifle has been renamed to Abyssal-Retributor
+The Tranquilizer has been renamed to Silent-Serenade. The chances of the Tranquilizer has been altered to include more locations
+The anti memetic pills (the ones you take to make 096 not target you anymore) has been renamed to Amnesioflux
+C4 also works now. Item spawning is now enabled. Up to 5 can spawn on the map per round. Renamed to C4. Use .detnoate with the radio out to set them off.
+
+UIU Agent now spawns with 1 C4 instead of 1 HE Grenade
+HOPEFULLY nothing is broken

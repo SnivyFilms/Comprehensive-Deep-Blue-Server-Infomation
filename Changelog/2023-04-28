@@ -1,0 +1,8 @@
+Changes regarding custom items:
+EMP Grenade: Now can spawn in 2 new rooms. 2 Can spawn on the map at any given time
+Grenade Launcher: Now can spawn in 1 new room, the spawn chances has been equalized across each room
+Medigun: Now spawns less often across the 3 rooms it can spawn in, still useful for detaining people if needed. (Think like the old detainer before detaining became a function with guns)
+SCP-127: Can now spawn in 2 new rooms, the spawn rate has been slightly increased (~5% more often)
+Tranquilizer: Can now spawn in 1 new room, the spawn rate has been equalized across each room
+
+(Equalized across each room means that the spawnrate is the same across each room)

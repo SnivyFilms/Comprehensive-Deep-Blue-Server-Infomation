@@ -1,0 +1,9 @@
+Updated from SCP SL 12 to SCP SL 13
+Updated Exiled 6.1.0 rc 1 to Exiled 7.0.0 alpha 1
+
+If things are broken, make a post in support-forums saying what is wrong. How to reproduce the bug. This information will be used to file bug reports with broken plugin to the respective plugin developers
+
+Added new hints to the hint system at the bottom of the screen while waiting for respawns
+
+Custom Items are broken for the time being:
+UIU Leader has been given a different loadout during this time

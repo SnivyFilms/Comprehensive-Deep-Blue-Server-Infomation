@@ -1,0 +1,5 @@
+Changes:
+Server plugin loader has been updated from Exiled 6.0.0 Beta 26 to Exiled 6.1.0 RC 1. (This means functionally nothing to you, but since this lists all of the changes im including it). Hopefully this doesnt break some plugins
+Serpents Hand has been updated to a newer version that isnt built with my poor porting skills, hopefully some conditions like SCP and Chaos dont win together are now actually functional
+
+Okay remember when I said hopefully it doesnt break anything, Yeah Serpents Hand is broken. This has been forwarded to the plugin developer and is waiting a fix.
