@@ -1,0 +1,34 @@
+Custom Roles allow for Custom Roles to spawn at the beginning and throughout the game. Here is provided a list of what they do.
+
+Custom Zombies:
+This section is for all of the custom zombies that can spawn when being revived. Making it easier for everyone to read.
+
+Balistic Zombie: When revived you will be a normal zombie, until you die. When you die you die with passion (exploding)
+
+Bersker Zombie: When revived you are a normal zombie, but when you kill someone you gain 100HP and a boost in speed.
+
+Charger Zombie: When revived you are a zombie that has the ability to charge, much like the Left 4 Dead charger. Use .special to use the charge*
+
+Dwarf Zombie: When revived you are a small zombie, but you move much faster.
+
+Medic Zombie: When revived you are a zombie that has the ability to passively heal every SCP around you. You move slower than regular zombies. Use .special to use the healing mist*
+
+Corroding Zombies: When revived you are a zombie that moves slower, but you have a 25% chance on hit to send someone to the pocket dimention.
+
+Plauge Zombie: When revived you are a zombie that moves slower, but has the ability to "infect" someone, using your special ability you can hit them with a curse where when a human dies, they immediately turn into a zombie. No reviving needed. Use .special to use the projectile*
+
+Juggernaut Zombie: When revived you are a zombie that moves slower, but has a lot of HP. When taking damage your AHP meter fills up, when full you are taking the least amount of damage possible.
+
+Custom Human Roles:
+This section is for all of the custom roles that you can spawn as, either at the start or sometime during the game.
+
+MTF Demolistionist: You're a specialized MTF unit that specializes in explosives. As such your kit is, ADATS**, Grenade, Grenade, C4**, C4**, C4**, Radio, Heavy Armor. Lacking a keycard its best to either loot one or stick around a teammate.
+
+MTF Medic: You're a specialized MTF Unit that specializes in a support role. Healing teammates. As such your kit is Phantom Pulse**, Silent Serenade**, PB-42**, Medkit, Adreline, MTF Sargent Keycard, and Combat Armor. You also have a healing mist ability. Use .special to use the healing mist*
+
+Drawf: You're a D Class that spawns smaller, but has infinite stanima.
+
+Chaos Phantom: You're a Chaos Insurgent that spawns at the beginning of the game. Your goal is to infratrate, and get the D Class to safety. You spawn with a different kit. Which is Abyssal Retributor**, Vortex Grenade**, SCP-127**, PB-42**, Medkit, Chaos Insurgency Hacking Device, Adreline, and Combat Armor. You also have the ability to go invisible. Use .special to go invisible for a small amount of time*
+
+*Denotes that you should setup a bind for the special abilities. In the player console (under the escape key) type cmdbind (key) .special (replacing (key) with what you want to bind. Such as cmdbind h .special)
+**Denotes custom items. You should read Custom Items for more info

@@ -1,0 +1,5 @@
+Added a "tutorial" section to explain the differences with the more heavily modded stuff. This is found in SCP SL Specifics -> Plugins -> Tutorial.
+Upped the amount of people who spawn in during a Serpents Hand and a UIU Respawn Wave to 15 (to match normal spawn waves): This is to prevent people from missing out on spawnwaves.
+The PB-42 can now open Keycard only doors, but cannot open locked doors (so if 079 traps you still get punished, and he cant get nuked at the beginning of the game)
+Hopefully fixed custom zombies not spawning in.
+Hopefully added ammo for the Chaos Phantom's main weapon

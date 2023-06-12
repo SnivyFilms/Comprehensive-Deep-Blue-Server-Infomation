@@ -1,0 +1,32 @@
+Custom Items adds a lot of custom items across the map that adds more functionality. In this section I will go over in depth on how each one works.
+
+PB-42, Affectionantly called the EMP Grenade. Has 3 different places where it can spawn. When it makes contact with a wall it will emit a EMP pluse, which disables the camera in that room and locks open doors for a short amount of time.
+
+ADATS, The Area Defence And Tatical System is a logister that has multiple different ways of spawning. It has a small chance to spawn on the map or as part of the kit for the UIU Leader* or MTF Demolistionist*. This weapon fires 4 imact grenades, but uses a grenade to reload it. Used in the right hands it can kill any SCP in mere miliseconds.
+
+Vortex Grenade, When thrown and hits a surface it will succ any player (except for SCP-173) towards the center of it. It has 5 different places on where it can spawn per map. This grenade does no damage.
+
+LJ-119, When used it will kill the user, but it will break SCP-096 out of rage if he is enraged. Will still kill the user if there is no SCP-096 or if he isnt enraged
+
+Phantom Pulse, This is an MP9 that when fired at friendies, it will heal them. When fired at zombies if enough rounds are put into a zombie it will revive them into a human on the team who has been shooting them.
+
+SCP-127, A pistol that passively regenerates its ammo. Part of the Chaos Phantom's kit*
+
+SCP-1499, A hat that teleports you to a different "dimention" (aka the tutorial tower) for a set amount of time. Has 3 different places where it can spawn
+
+Abyssal Retributor, This is a E11 that will only fire one shot, but the shot is accurate and will instantly kill any human classes. Almost like if it was a Sniper Rifle... oh wait. Part of the Chaos Phantom Kit*
+
+Silent Serenade, This is a COM-18 that fires tranquizer darts. When tranquized you will not be able to move for a bit. Only 1 can spawn on the map but it is part of the UIU Leader's* and MTF Medics kit*.
+
+SCP-714, When equipped makes you immune to SCP-049 + SCP-049-2, but you will slowly start to die. Only 1 can spawn in one place.
+
+Amnesioflux, When consumed you will "forget" what SCP-096's face looks like, making you no longer a target when he is enraged, but if you look at him again then you will be. Since this is SCP-500 you will also get the effects of consuming SCP-500
+
+Deflector Shield, When equipped you will reflect all projectile based weaponry back to sender. Has 2 places where it can spawn, only 1 can spawn on the map, and its very rare.
+
+C4, When thrown this grenade will not explode. Instead it will wait for a command from the thrower to set off. Using .detonate the C4 if you're in range, will immediately explode.
+Footnote, I would recommend binding .detonate to a button instead of needing to type it out in the user console each time. To do this open the user console with the ` key (under the escape key) and type cmdbind (key) .detonate (replacing (key) with what ever key you want, such as cmdbind j .detonate)
+
+Autogun, This COM-15 is really powerful. When firing it will hit everyone on the map, and I do mean EVERYONE. It can spawn in one place on the map and is extremely, extremely rare.
+
+* Denotes a custom role, read either Custom Roles or Unusual Incidents Unit Rescue Squad for more info.
