@@ -13,3 +13,4 @@ Nuke Lock: At the 25 minute mark the Alpha Warhead should automatically start an
 Respawn Timer: When a player is "dead" (in spectator mode) a hud appears showing the spawn chances of MTF/CI, the round time, the warhead nuke time if it is on, generator engaged, and how many people are in spectator.
 Serpents Hand: During a Chaos Insurgency spawn wave, there is a 25% chance for Serpents Hand to spawn instead. The goal of this group is to work with the SCPs and to kill all other threats within the facility.
 UIU Rescue Squad: During a Mobile Taskforce Spawnwave, there is a 33% chance for UIU Rescue Squad to spawn instead. The goal of this group is to reenforce the MTF in their goals. They have a different loadout compared to regular MTF.
+SCP-1576 Spectator Viewer: When SCP-1576 is used. It will tell the user how many people are in spectator. Not who is in spectator though.
