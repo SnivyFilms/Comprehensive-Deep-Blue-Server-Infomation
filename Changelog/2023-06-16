@@ -1,2 +1,8 @@
 Updated SH again.
 	If someone can test this that would be great. End Conditions has been disabled to see if the SH config for SCPs and Chaos cannot win together works.
+Part 2 Electric Boogaloo
+(Staff Only) added more predefined ban reasons.
+Added "Ethics Committee Plugin Helpers" which is given out by me (Snivy Films) for anyone who goes out of their way to help test plugin changes, report plugins not fully working.
+	This is a discord and ingame role. For discord anyone can get it, but for the ingame role only non-staff members can get it.
+	Has the same functions as VIP. If you're a VIP and qualified for Plugin Helper. Ask me to swap your role ingame.
+Fixed: SCP-079 not being able to talk to humans as Exiled has been updated from 7.0.0-rc3 to 7.0.0-rc5
