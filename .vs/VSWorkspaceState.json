@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Administration Layer",
+    "\\Administration Layer\\Staff",
+    "\\SCP SL Specifics",
+    "\\SCP SL Specifics\\Events"
   ],
-  "SelectedNode": "\\C:\\Users\\mill3\\Source\\Repos\\Comprehensive-Deep-Blue-Server-Infomation",
+  "SelectedNode": "\\SCP SL Specifics\\Events\\Specialist MTF VS SCP",
   "PreviewInSolutionExplorer": false
 }
