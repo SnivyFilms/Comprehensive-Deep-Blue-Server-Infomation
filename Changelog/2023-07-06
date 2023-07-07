@@ -1,0 +1,86 @@
+Custom Weapon Changes:
+	ADATS: 
+		Reduced the clip from 4 to 2, hopefully to reduce the amount of accidental team kills
+		Increased the weight of it.
+		Adjusted the spawn chance of it spawning on the map naturally (Nerf)
+		*They removed the flag to make impact grenades set to true or false :(*
+			Footnote, if they add a flag to have grenades be rolling for a fuse time instead of impact I will enable rolling grenades and increase the grenade count to 3
+
+	SCP-127:
+		Removed from rotation entirely
+			It only did damage to teammates, which is only really useful on D-Class on D-Class teamkilling
+			This includes removing it from the Chaos Phantom's kit.
+
+	Abyssal Retributor:
+		Adjusted the spawn chance of it spawning in Heavy Armory (Nerf)
+			This is to match the spawn chance of it spawning in MicroHID room
+		Added SCP-049 Armory as a room it can now spawn in, same % chance of spawning
+		Enabled Friendly Fire for this gun (I have no idea why it was disabled, probably debugging issues that I failed to set back)
+
+	SCP-2818:
+		Added a 10 % chance of spawning in MicroHID
+			This is due to it actually doing damage unlike it did in SCP:SL 12.0 (Mimicry)
+
+	Silent Serenade:
+		Set "Friendly Fire" to true, I have no idea if this will cause teammates to be tranquilized
+
+	C4:
+		Now has a farther range with the detonator, this is to help stratagy in farther ranges.
+		Now explodes when the deployer dies instead of being stuck in a state of limbo
+		Remember its .detonate in the [~] player console to set them off.
+
+	Autogun:
+		Now has a higher range
+		Now has more bullets (5-10)
+		Now does less damage
+		*Still has it 1% chance of spawning in 2 locations so don't worry being too overpowered
+
+Custom Role Changes:
+	Chaos Phantom:
+		No longer spawns with SCP-127
+		Reduced the chance of spawning at the beginning of the game
+		Decreased the active time of invisibility with .special to match the same invisibility time as SCP-268 (which is a nerf for the .special ability by half)
+		When you are spawned in as a Chaos Phantom you SHOULD not be teleported again to another Facility Guard spawn point, hopefully this reduces the amount of times players get killed within 5 seconds of the game starting
+
+	MTF Demolistionist:
+		Reduced the spawn chance
+		You no longer teleport to another MTF spawn position when being given this role (hopefully)
+
+	All Custom Zombies:
+		*HOPEFULLY* fixed the issue of them not spawning
+
+	MTF Medic:
+		Reduce the spawn chance
+		Remember it has a .special ability
+		You no longer teleport to another MTF spawn position when being given this role (hopefully)
+
+GitHub changes:
+	Updated both Custom Items and Custom Roles in SCP SL Specifics -> Plugins -> Tutorial to match the changes above
+	Added Autonuke to SCP Sl Specifics -> Game Functions (how did I leave that out?)
+
+Discord Changes:
+	Added Dank Memer because Adummyguy wanted it (to give #bot-commands a purpose)
+	CedMod bot has some commands for #bot-commands
+	When ever Serperior Pinging Services is online, you can use its commands in #bot-commands
+	Changed #rules to #rules-and-resources
+		added resources which as a whitelist for VPNs & Cloudgaming for CedMod, how to access the panel for ban appeals and stuff, and so on.
+
+Somethings in the pipe that I am thinking on adding (and possibly paying some developers to make just for Deep Blue):
+	MicroHID when used on players makes them evaporate, just like the 3-X Partical Distruptor
+	173 spawns back in Light Containment Zone
+	A new surface so we aren't using publicly availible schematics, this is to help Deep Blue stand out with their surface rework.
+	Added CedMod and Map Editor Reborn to SCP Sl Specifics -> Plugins
+
+
+
+Some Stats for the Stats people:
+	Since introducing CedMod last week there has been:
+		112 instances of Friendly Fire, the majority of this is end of round Friendly Fire (which is okay) and accidental team kills/cross fire
+		37 People flagged for team killing that tripped the Friendly Fire Detector or has been manually banned by staff (not including DNT users)
+		8 Uses of the ingame report system
+		190 "Unique" players has joined (goes up each time a new player joins the server)
+		The Highest Level obtained currently level 12, with 100 kills, 75 deaths, and 2 Friendly Fire Incidents
+
+
+
+That's it, I fell asleep on my keyboard while making this.

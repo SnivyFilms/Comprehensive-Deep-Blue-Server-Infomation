@@ -15,3 +15,5 @@ Serpents Hand: During a Chaos Insurgency spawn wave, there is a 25% chance for S
 UIU Rescue Squad: During a Mobile Taskforce Spawnwave, there is a 33% chance for UIU Rescue Squad to spawn instead. The goal of this group is to reenforce the MTF in their goals. They have a different loadout compared to regular MTF.
 SCP-1576 Spectator Viewer: When SCP-1576 is used. It will tell the user how many people are in spectator. Not who is in spectator though.
 SCP Info Display: When playing SCPs, it will show you what other SCPs are being played
+CedMod: This is a tool for staff that is used to enforce moderation
+Map Editor Reborn: MER for short, it allows for custom objects to be spawned on the map, the biggest one is what we did to surface.

@@ -2,7 +2,7 @@ Custom Items adds a lot of custom items across the map that adds more functional
 
 PB-42, Affectionantly called the EMP Grenade. Has 3 different places where it can spawn. When it makes contact with a wall it will emit a EMP pluse, which disables the camera in that room and locks open doors for a short amount of time.
 
-ADATS, The Area Defence And Tatical System is a logister that has multiple different ways of spawning. It has a small chance to spawn on the map or as part of the kit for the UIU Leader* or MTF Demolistionist*. This weapon fires 4 imact grenades, but uses a grenade to reload it. Used in the right hands it can kill any SCP in mere miliseconds.
+ADATS, The Area Defence And Tatical System is a logister that has multiple different ways of spawning. It has a small chance to spawn on the map or as part of the kit for the UIU Leader* or MTF Demolistionist*. This weapon fires 2 imact grenades, but uses a grenade to reload it. Used in the right hands it can kill any SCP in mere miliseconds.
 
 Vortex Grenade, When thrown and hits a surface it will succ any player (except for SCP-173) towards the center of it. It has 5 different places on where it can spawn per map. This grenade does no damage.
 
@@ -10,7 +10,7 @@ LJ-119, When used it will kill the user, but it will break SCP-096 out of rage i
 
 Phantom Pulse, This is an MP9 that when fired at friendies, it will heal them. When fired at zombies if enough rounds are put into a zombie it will revive them into a human on the team who has been shooting them.
 
-SCP-127, A pistol that passively regenerates its ammo. Part of the Chaos Phantom's kit*
+SCP-127, A pistol that passively regenerates its ammo. No longer part of the Chaos Phantom's kit
 
 SCP-1499, A hat that teleports you to a different "dimention" (aka the tutorial tower) for a set amount of time. Has 3 different places where it can spawn
 
@@ -28,5 +28,7 @@ C4, When thrown this grenade will not explode. Instead it will wait for a comman
 Footnote, I would recommend binding .detonate to a button instead of needing to type it out in the user console each time. To do this open the user console with the ` key (under the escape key) and type cmdbind (key) .detonate (replacing (key) with what ever key you want, such as cmdbind j .detonate)
 
 Autogun, This COM-15 is really powerful. When firing it will hit everyone on the map, and I do mean EVERYONE. It can spawn in one place on the map and is extremely, extremely rare.
+
+SCP-2818, When used it kills the player as the player becomes the bullet, when hitting another target it kills the target.
 
 * Denotes a custom role, read either Custom Roles or Unusual Incidents Unit Rescue Squad for more info.

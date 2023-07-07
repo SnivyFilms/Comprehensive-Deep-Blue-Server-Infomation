@@ -28,7 +28,7 @@ MTF Medic: You're a specialized MTF Unit that specializes in a support role. Hea
 
 Drawf: You're a D Class that spawns smaller, but has infinite stanima.
 
-Chaos Phantom: You're a Chaos Insurgent that spawns at the beginning of the game. Your goal is to infratrate, and get the D Class to safety. You spawn with a different kit. Which is Abyssal Retributor**, Vortex Grenade**, SCP-127**, PB-42**, Medkit, Chaos Insurgency Hacking Device, Adreline, and Combat Armor. You also have the ability to go invisible. Use .special to go invisible for a small amount of time*
+Chaos Phantom: You're a Chaos Insurgent that spawns at the beginning of the game. Your goal is to infratrate, and get the D Class to safety. You spawn with a different kit. Which is Abyssal Retributor**, Vortex Grenade**, PB-42**, Medkit, Chaos Insurgency Hacking Device, Adreline, and Combat Armor. You also have the ability to go invisible. Use .special to go invisible for a small amount of time*
 
 *Denotes that you should setup a bind for the special abilities. In the player console (under the escape key) type cmdbind (key) .special (replacing (key) with what you want to bind. Such as cmdbind h .special)
 **Denotes custom items. You should read Custom Items for more info
