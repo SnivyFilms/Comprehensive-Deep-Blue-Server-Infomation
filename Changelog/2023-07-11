@@ -1,0 +1,7 @@
+SCP:SL:
+	The "late join" time has been adjusted from 15 seconds to 45 seconds.
+		This is so the late joiners, if they get messed with the auth servers or their games are slow to load/connect without having a major game impact.
+
+
+
+ASCII
