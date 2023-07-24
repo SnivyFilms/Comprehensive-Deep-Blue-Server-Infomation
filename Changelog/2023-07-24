@@ -1,0 +1,4 @@
+SCP:SL Specifics
+  Updated SH to a newer verison
+    (Turns out that the spawn chance even though it was set to 25% was always 75% regardless of how it was specificed in the config)
+  Updated UIU to a newer version
