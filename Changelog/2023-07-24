@@ -2,3 +2,8 @@ SCP:SL Specifics
   Updated SH to a newer verison
     (Turns out that the spawn chance even though it was set to 25% was always 75% regardless of how it was specificed in the config)
   Updated UIU to a newer version
+
+Part 2
+SCP:SL Specific
+    Updated the SCP Display, This brings brighter colors to read the stats, and removing the distance between players (since it is generally useless on a good communicative team)
+    Updated Auto Events to have new stuff. (Ill update the event stuff later)
