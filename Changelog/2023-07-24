@@ -4,6 +4,11 @@ SCP:SL Specifics
   Updated UIU to a newer version
 
 Part 2
-SCP:SL Specific
+SCP:SL Specifics
     Updated the SCP Display, This brings brighter colors to read the stats, and removing the distance between players (since it is generally useless on a good communicative team)
     Updated Auto Events to have new stuff. (Ill update the event stuff later)
+
+Part 3
+SCP:SL Specifics
+    SCP-2818 reduced chance of spawn
+    Updated Respawn Timer
