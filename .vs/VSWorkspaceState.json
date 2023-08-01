@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Changelog"
+    "\\Changelog",
+    "\\SCP SL Specifics",
+    "\\SCP SL Specifics\\Events"
   ],
-  "SelectedNode": "\\Changelog\\2023-07-25",
+  "SelectedNode": "\\SCP SL Specifics\\Events\\Blackout Dogs",
   "PreviewInSolutionExplorer": false
 }
