@@ -1,0 +1,67 @@
+﻿A fair amount of stuff here.
+SCP:SL Specifics.
+	Added Protocol Enforcer.
+		A Facility Guard that spawns in Light Containment, with a tranquilzer, 10 reserve rounds. Only has a Zone Manager Keycard so they can't bomb rush the armory. ~20% Chance to spawn as this type of guard.
+		Credit to Gabgorgan for the inital idea.
+	Added Biochemist
+		A Scientists that spawns in Light Containment, no keycard, but has altered stats. ~20% Chance to spawn as this type of scientist.
+			Stats:
+			110 HP
+			The ability to passively heal others
+			Dies with PASSION!
+	Edited Serpents Hand
+		HP 120 -> 100
+		Due to how the plugin was updated, friendly fire between SCPs and Serpents Hand is now possible **AND CANNOT CURRENTLY BE DISABLED**
+		I really don't know how the ninja HP change got by me until I saw it in game a bit ago.
+		If there is enough reason to change it back I can set the HP back to 120
+		Team Kill as Serpents Hand is now possible
+	Edited UIU Rescue Squad:
+		**HOPEFULLY** these guys spawn in with the ammo for their main guns. (I have no idea what's causing this, and when it's spawned in manually they have their ammo)
+	Added custom role hints to respawn timer for Protocol Enforcer and Biochemist
+	Fixed minor spelling mistakes in respawn timer hints.
+	Updated the server info in game to have more rules because I know people are lazy.
+
+GitHub Specifics.
+	Updated Custom Roles (SCP SL Specifics -> Plugins -> Tutorial -> Custom Roles) to have the new roles in there
+	Updated Unusual Incidents Unit Rescue Squad (SCP SL Specifics -> Plugins -> Tutorial -> Custom Roles) to match what happens in game
+	Added Non Staff in the Administration Layer
+		The following roles has been moved from Staff to Non Staff
+			Ethics Committee Broadcaster
+			Ethics Committee Member (VIP)
+			Ethics Committee Plugin Helper
+			I don't read server info's. Please laugh at me! (I don't read server infos in the GitHub)
+			I waste my money on discord boosts.
+	Edited Ethics Committee Broadcaster (Administration Layer -> Non Staff -> Ethics Committee Broadcaster) to have how you can obtain the role
+	Edited I don't read server infos (Administration Layer -> Non Staff -> I don't read server infos) to have more examples on how you can obtain the role.
+	Removed old, unused plugins from the Plugins list (SCP SL Specifics -> Plugins -> Plugins)
+
+Discord Specifics.
+	Anyone who has the following roles, Ethics Committee Broadcaster, Ethics Committee Member (VIP), and Ethics Committee Plugin Helper, now has access to a special secret area. If you have these roles check it out on the discord
+	Added "Allgemein" voice channel, which is quite literally german for General
+	Increased the bitrate for General and Allgemein to the highest level
+	Added "The Xbox Live Experience" voice channel, this is a voice channel that is set to the lowest possible bitrate, this is a joke VC.
+
+Other:
+strawberries bewtich liken, denizens shells cuüt, transistorizing defacing bench he.
+
+「0」とアイテム「6」の設定に関して、15の新しいカスタム914レシーバーを追加しました。
+
+marmalades sash ala recharges neat tan (6%)
+
+heaters time
+"25"
+"18"
+"38"
+"39"
+"46"
+"50"
+"35"
+"17"
+"49"
+"33"
+"42"
+"43"
+"48"
+"31"
+"16"
+"11"
