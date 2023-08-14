@@ -7,7 +7,7 @@ Common Utilities: This is a tool that allows to alteration of server events, suc
 Custom Items: This allows for custom items to spawn across the map, when picked up they have a short infomational section about what they do specifically.
 Custom Roles: This allows for custom roles to spawn, this provides a different experience for players instead of being the same type of class each time.
 End Conditions: This is used to dictate when the game should end. This is used on Deep Blue to force SCPs and Chaos to attack eachother.
-Nuke Lock: At the 25 minute mark the Alpha Warhead should automatically start and share the infomation to the top of everyone's screen saying as such. When the facility detonates there is 5 minutes before radiation starts to kill everyone.
+Post Nuke Surface Tweaks: At the 25 minute mark the Alpha Warhead should automatically start and share the infomation to the top of everyone's screen saying as such. When the facility detonates there is 5 minutes before radiation starts to kill everyone.
 Respawn Timer: When a player is "dead" (in spectator mode) a hud appears showing the spawn chances of MTF/CI, the round time, the warhead nuke time if it is on, generator engaged, and how many people are in spectator.
 Serpents Hand: During a Chaos Insurgency spawn wave, there is a 25% chance for Serpents Hand to spawn instead. The goal of this group is to work with the SCPs and to kill all other threats within the facility.
 UIU Rescue Squad: During a Mobile Taskforce Spawnwave, there is a 33% chance for UIU Rescue Squad to spawn instead. The goal of this group is to reenforce the MTF in their goals. They have a different loadout compared to regular MTF.

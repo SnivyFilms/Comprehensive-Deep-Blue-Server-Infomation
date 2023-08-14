@@ -1,0 +1,5 @@
+SCP:SL Specifics
+	Nuke Lock is gone, it was incredibly janky especially with radiation posioning with SCP-106 being able to out attrition the humans
+
+	Added Post Nuke Surface Tweaks, the radiation is much better, being able to configure effects, and set how much damage SCPs takes over Humans (Example, humans take 2 damage, SCPs take 50), goes straight through Hume Shield as well.
+		After the nuke goes off the lights gets turned off for a short amount of time. (5 Seconds)

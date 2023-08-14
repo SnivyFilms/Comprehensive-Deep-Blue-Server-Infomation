@@ -1,7 +1,14 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Administration Layer",
+    "\\Administration Layer\\Non Staff",
+    "\\Administration Layer\\Staff",
+    "\\Rules",
+    "\\SCP SL Specifics",
+    "\\SCP SL Specifics\\Plugins",
+    "\\SCP SL Specifics\\Plugins\\Tutorial"
   ],
-  "SelectedNode": "\\C:\\Users\\User\\Source\\Repos\\Comprehensive-Deep-Blue-Server-Infomation",
+  "SelectedNode": "\\SCP SL Specifics\\Plugins\\Plugins",
   "PreviewInSolutionExplorer": false
 }
