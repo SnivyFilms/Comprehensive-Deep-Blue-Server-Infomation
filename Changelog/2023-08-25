@@ -1,0 +1,11 @@
+SCP SL Specifics:
+	Added a new Chaos Custom Role, no information will be provided, good luck.
+		Thanks Colby for the idea
+	Respawn Timer Hints has been updated to include the new custom roles & SCP-035
+	When being spawned in as tutorial from an admin, you no longer have a random chance to become Serpents Hand
+
+GitHub Specifics:
+	Added SCP-035 Item to SCP SL Specifics -> Plugins -> Tutorial -> Custom Items
+	Added SCP-035 Role, Containment Guard and the new Chaos Custom Role to SCP SL Specifics -> Plugins -> Tutorial -> Custom Roles
+	Changed the formatting in SCP SL Specifics -> PLugins -> Tutorial -> Custom Items to be more consistant with the rest of the files
+	Added punctuation marks to multiple files.

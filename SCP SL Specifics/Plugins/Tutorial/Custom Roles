@@ -32,9 +32,17 @@ Chaos Phantom: You're a Chaos Insurgent that spawns at the beginning of the game
 
 Containment Engineer: You're a Scientist that spawns with a Containment Engineer Keycard in Enterance Zone.
 
-Protocol Enforcer: You're a Facility Guard that spawns in Light Containment Zone with a tranquilzer
+Protocol Enforcer: You're a Facility Guard that spawns in Light Containment Zone with a tranquilzer.
 
 Biochemist: You're a Scientist that spawns in Light that has different abilities, at the cost of no starting keycard.
 
+Containment Guard: A better equipped facility guard that is ready to take on SCPs.
+
+Border Patrol: Some unfortunate souls are regulated to ensure safe passage between heavy and enterance.
+
+Nightfall: Nothing much is known about this role, field operatives needed.
+
+SCP-035: When picking up SCP-035** you become this role, which is smaller, has a health drain, and you fight for the SCPs.
+
 *Denotes that you should setup a bind for the special abilities. In the player console (under the escape key) type cmdbind (key) .special (replacing (key) with what you want to bind. Such as cmdbind h .special)
-**Denotes custom items. You should read Custom Items for more info
+**Denotes custom items. You should read Custom Items for more info.
