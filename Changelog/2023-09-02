@@ -1,0 +1,9 @@
+This is effectively part 3 as more plugins gets updated from 2023-09-01
+SCP SL Specifics:
+  Custom Escapes has been updated
+  The "This server runs Exiled Common Utilities" and "Welcome <user> please read our server rules" should no longer show up
+  The Surface Stuff should now actually load
+
+  Things that dont work:
+    Gambling, due to the update things got messed up
+    Micro Evaporating Players doesnt work.
