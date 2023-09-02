@@ -11,9 +11,9 @@ SCP SL Specifics:
 	CandyWeight has been removed and has been replaced with CandyUtilities
 	Updated Map Editor Reborn to its latest version
 	Updated CedMod to its latest version (the only plugin that somehow didnt eat shit when SL Updated)
+	Respawn Timer
 
 	Plugins that are broken
-	Respawn Timer
 	SCPInfoDisplay
 	Serpents Hand
 	AutoEvent
@@ -25,3 +25,6 @@ SCP SL Specifics:
 	SCPSwap
 
 	Updates will be rolled out as the plugin developers update them
+
+Part 2:
+	Respawn Timer Updated
