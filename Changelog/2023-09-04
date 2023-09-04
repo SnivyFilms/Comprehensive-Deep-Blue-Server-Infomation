@@ -1,0 +1,10 @@
+First things first, all of the plugins should be working now.
+
+SCP SL Specifics
+  Added some new text to Respawn Timer for Serpents Hand and UIU (You will see them on the tickets representive on which side's spawnwave is needed to spawn them in)
+    UIU is with MTF, SH is with Chaos.
+  SCPs no longer need to kill all of the Chaos for the round to end, due to the 13.2 update other measures will be in the works to enfore Chaos and SCPs killing eachother
+
+  Staff Specifics:
+  Redid the config formatting. Makes it easier for me
+  SCP-035's custom item ID has been changed from 101 to 20
