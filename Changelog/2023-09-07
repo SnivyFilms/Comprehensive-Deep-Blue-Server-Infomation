@@ -1,0 +1,8 @@
+SCP SL Specifics:
+  Updated SCP:SL to 13.2.1
+  Updated Exiled to 8.2.0
+  Updated Map Editor Reborn to its latest version
+  Spun off my custom roles that I added myself (Containment Engineer, Containment Guard, Protocol Enforcer, Border Patrol, and Nightfall) into its own plugin, 
+    This is with the intentions of this change to make it easier to add new custom roles.
+  Updated my own version of Serpents Hand (no big changes) (The ammo thing is still an issue)
+  Updated my own version of UIU Rescue Squad (no big changes) (The ammo thing is still an issue)
