@@ -1,0 +1,6 @@
+SCP SL Specifics:
+  Fixed the SCP Swap text so it no longer takes up the real estate on your screen for like a minute
+  Added 2 new custom roles
+    Flipped (The name doubles as the discription)
+    Chaos A7 Rifleman: A Chaos Rifleman that spawns with an A7 instead of an AK
+  Turns out that radiation was broken and I havent noticed, waiting for that plugin to be fixed
