@@ -1,0 +1,7 @@
+SCP SL Specifics:
+  Updated Exiled to 8.2.1
+    This is important as it has multiple game breaking bugs due to Northwood being decayingwood
+    SCP-173 will sometimes have instant teleportation abilities when being observed (I.E. you open a door and SCP-173 is there, he can instantly teleport closer)
+    SCP-049 sometimes cannot revive dead players
+    SCP-049-2 sometimes cannoot eat dead corpses
+    Grenades sometimes doesn't beep
