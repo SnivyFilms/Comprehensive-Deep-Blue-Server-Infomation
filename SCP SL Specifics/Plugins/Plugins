@@ -6,13 +6,12 @@ CandyWeight: This is a tool that is used to adjust the chance that you can get c
 Common Utilities: This is a tool that allows to alteration of server events, such as turning the nuke lights blue, being able to "gamble" coins, and more.
 Custom Items: This allows for custom items to spawn across the map, when picked up they have a short infomational section about what they do specifically.
 Custom Roles: This allows for custom roles to spawn, this provides a different experience for players instead of being the same type of class each time.
-End Conditions: This is used to dictate when the game should end. This is used on Deep Blue to force SCPs and Chaos to attack eachother.
 Post Nuke Surface Tweaks: At the 25 minute mark the Alpha Warhead should automatically start and share the infomation to the top of everyone's screen saying as such. When the facility detonates there is 5 minutes before radiation starts to kill everyone.
 Respawn Timer: When a player is "dead" (in spectator mode) a hud appears showing the spawn chances of MTF/CI, the round time, the warhead nuke time if it is on, generator engaged, and how many people are in spectator.
 Serpents Hand: During a Chaos Insurgency spawn wave, there is a 25% chance for Serpents Hand to spawn instead. The goal of this group is to work with the SCPs and to kill all other threats within the facility.
 UIU Rescue Squad: During a Mobile Taskforce Spawnwave, there is a 33% chance for UIU Rescue Squad to spawn instead. The goal of this group is to reenforce the MTF in their goals. They have a different loadout compared to regular MTF.
 SCP-1576 Spectator Viewer: When SCP-1576 is used. It will tell the user how many people are in spectator. Not who is in spectator though.
-SCP Info Display: When playing SCPs, it will show you what other SCPs are being played
+SCP Info Display: When playing SCPs, it will show you what other SCPs are being played, health, and other stats (Zombies for 049, Generators Engaged for 079, etc)
 CedMod: This is a tool for staff that is used to enforce moderation
 Map Editor Reborn: MER for short, it allows for custom objects to be spawned on the map, the biggest one is what we did to surface.
 Custom Escapes: Certian roles (I.E D-Class, Detained MTF) has to go by the small door where the Chaos Van spawns to escape.

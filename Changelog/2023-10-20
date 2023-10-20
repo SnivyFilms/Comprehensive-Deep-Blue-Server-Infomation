@@ -1,0 +1,14 @@
+SCP SL Specifics
+	Made the SCP Info Display more fancy instead of just RED
+	Disabled Russian Ruollete since it was barely functional
+
+GitHub Specifics
+	Updated the following
+		SCP SL Specifics -> Plugins -> Plugins to include more detail
+		SCP SL Specifics -> Plugins -> Tutorial -> Misc Section to incude detail about Common Utilities and Map Editor Reborn
+		Administration Layer -> Non Staff -> Ethics Committee Broadcaster to include that they are immune to the Friendly Fire Detector
+		Administration Layer -> Non Staff -> Ethics Committee Member (VIP) to include that they have access to Admin Chat and immunity to Friendly Fire Detector
+		Administration Layer -> Non Staff -> Ethics Committee Plugin Helper to include they have access too Admin Chat and immunity to Friendly Fire Detector
+
+	Added the following
+		SCP SL Specifics -> Events -> No Name Event
