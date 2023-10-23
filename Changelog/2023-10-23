@@ -1,0 +1,11 @@
+SCP SL Specifics
+	AutoEvents (the minigame plugin) actually works with the most recent update (I messed something up in the config file that wouldnt load the maps)
+	Updated SCP Info Display to its latest version.
+		SCP Info Display should follow this fashion
+		You (In yellow)
+		SCP Name (In red)
+		HP/Generators (In green, +1 in red for activating generators)
+		Hume Shield/Access Tier (In blue)
+		Zombie Count/Energy Level/Vigor (In pink)
+
+		HP now shows the direct value and not a percentage.
