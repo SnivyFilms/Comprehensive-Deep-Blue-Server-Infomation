@@ -1,0 +1,21 @@
+SCP SL Specifics.
+	Updated Exiled Again
+		Should fixed the issue of SCPs and Chaos winning if the 25% alive freshhold hasnt been met
+			Should translate easily to the 0% alive for SH
+	Updated Map Editor Reborn
+	You are now able to SCP Swap to SCP 3114 with .scpswap 3114 (more versions of that coming soon)
+		I wasn't lying when I said soon, as its the next line. Other options to swap to SCP 3114 is .scpswap skelton and .scpswap guitar riff
+		I intend on leaving the ability to SCP Swap 3114 in the game year around
+	Updated SCP Info Display so that SCP 3114 shows up in there
+		Side update, I have given SCPs custom names with it. Some are far more creative than others, this will be reverted at the end of the Halloween event
+		049: Plauge Phantom
+		049-2: Zombie
+		079: C0mPuT3r
+		096: Crying Boi
+		106: Larry
+		173: Mr. Nutty
+		939: Dog
+		3114: Guitar Riff
+	Serpents Hand Spawns again
+	UIU Spawns again
+	Updated Candy Utilities
