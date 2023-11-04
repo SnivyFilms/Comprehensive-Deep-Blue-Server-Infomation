@@ -42,7 +42,5 @@ Border Patrol: Some unfortunate souls are regulated to ensure safe passage betwe
 
 Nightfall: Nothing much is known about this role, field operatives needed.
 
-SCP-035: When picking up SCP-035** you become this role, which is smaller, has a health drain, and you fight for the SCPs.
-
 *Denotes that you should setup a bind for the special abilities. In the player console (under the escape key) type cmdbind (key) .special (replacing (key) with what you want to bind. Such as cmdbind h .special)
 **Denotes custom items. You should read Custom Items for more info.

@@ -1,0 +1,6 @@
+SCP SL Specifics
+	SCP-035 successfully terminated by removal of the plugin.
+	All references of SCP-035 has been removed such as from the respawn timer
+
+GitHub
+	Removed SCP-035 info from the GitHub
