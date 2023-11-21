@@ -1,0 +1,4 @@
+SCP SL Specifics
+  Reverted an Exiled Update from 8.4.2 (which came out a few days that I didnt comment on) to 8.4.1
+    This caused very weird issues with custom items, notibly the sniper rifle just because a 1 shot, multi rounded rifle; autogun (25 rounds); and SCP-2818 (biomass gun)
+  Updated the tool tip for the Phantom Pulse (medigun) to say "Does reduced damage to hostiles" from "Does nothing against hostiles" as having a 10 round FSP-9 does reduced damage compared to a regular FSP-9
