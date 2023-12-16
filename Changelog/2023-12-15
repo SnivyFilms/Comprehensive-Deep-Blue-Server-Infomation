@@ -1,0 +1,9 @@
+SCP SL Specifics
+  Moved the server to a new host (hopefully for better performance)
+  The following custom roles get's their inventories back (because I was stupid)
+    Demolistionist (missing ADATS, C4, C4, C4)
+    Medic (missing Phantom Pulse, Silent Serenade, PB-42)
+    Chaos Phantom (missing Abyssal Retributor, Vortex Grenade, PB-42)
+    Protocol Enforcer (missing Silent Serenade)
+    UIU Leader (missing ADATS)
+    UIU Agent (missing PB-42, C4)
