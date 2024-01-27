@@ -1,0 +1,3 @@
+SCP SL Specifics:
+  Updated the audio announcement for UIU when there is no SCPs remaining
+    Now it should no longer say "All remaining personel are advised to follow standard evacuation protocols until an MTF squad reaches your location"
