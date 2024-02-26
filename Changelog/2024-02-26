@@ -1,0 +1,4 @@
+SCP SL Specifics:
+  SCP Info Display has been updated:
+    Contains 096 rage state (all 4 of them, calm, enraging, enraged, calming)
+    Contains if 173 is being looked at or not.
