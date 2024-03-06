@@ -1,0 +1,4 @@
+SCP SL Specifics:
+  Updated SCP Info Display to show who is playing as what SCP.
+  The You: tag has been removed due to this change
+  Zombies will not show up anymore to avoid it getting very cluttered
