@@ -1,0 +1,47 @@
+SCP SL Specifics:
+  MTF Captain now spawns with 200 5.56x45mm ammo (was 260)
+    This was an oversight for the longest of time as if any captain that wasn't using the 60 round drum for the E-11 will have the extra ammo dropped when the E-11 was put away
+    I also only intended to have 200 ammo total, not in reserve, oops.
+  SCP-049 now gets 400 health on kill universally (even if it is gotten by a user dying from cardiac arrest)
+  SCP-096 now gets 300 health on kill
+  SCP-096 now starts at 3500 HP (was 2500)
+    The 096 changes are due to how very unfun 096 is to play as and how rather boring it is to play against.
+    096 was very vulerable on getting smoked by the MicroHID with no real counterplay.
+  Silent Serenade when used against SCPs now has a 75% chance of just not being effective at all.
+  Silent Serenade when used against any player will become resistant to the effects faster (went from 1.2 to 1.75 for time reduced per tranq shot)
+  Silent Serenade when used against any player will have the resistance to the effects for significantly longer (went from 2 minutes to 10 minutes)
+    The Silent Serenade in the current state was honestly way too strong, being able to get away from any SCP basically for free isnt fun or fair, and to knock 096 out of rage is extremely unfair for 096
+    The Downsides of the Silent Serenade was basically non existant
+  LJ-119 no longer spawns
+    Because its broken.
+  SCP-714 now has a 10% chance of spawning in Heavy Armory and in Nuke Armory
+  SCP-714 now no longer gives resistance for the following effects
+    Amnesia Items
+    Amnesia Vision
+    Hypothermia
+    Burned
+    Concussed
+    Blinded
+      The majority of these effects makes absolutely no sense to be resisted too, seriously how does putting on a ring that makes you tired resists you becoming cold?
+      AmensiaVision is odd because I would believe it would make it more susceptiable to not being able to see 939 in the gas.
+  SCP-714 now gives the following effects
+    Amensia Vision
+    Deafened
+      If you're tired then you should be more suseptiable to not being able to see everything and not being able to hear clearly
+  SCP-714 now resists the following effects
+    Cardiac Arrest
+    Sink Holes
+    Disabled (getting the slow effect from escaping the Pocket Dimension)
+    Invisibility
+      The ring must have good benifits to counter the downsides (except for invisiability so you must take off the ring before using the hat)
+  SCP-2818 now does 1000 damage (2000 before)
+    It's rather unfair that a custom weapon can drop most SCPs at most health values with no counterplay, just a more effective MicroHID with no windup time with the only counter being how rare it spawns
+  SCP-2818 now spawns more often (10% now instead of 5)
+    To counteract the damage Nerf
+  SCP-2818 now fires the human more smoothly
+    The max distance per tick was reduced by half (.5 to .25) but the movement is increased (.00025 seconds per move to .000125 seconds per distance)
+    This isnt a nerf or a buff, the distance was reduced by half but the movement per tick was made faster by half
+  C4 now gets removed on death instead of exploding
+    The strength of suicide plays are way too strong
+
+  There will be more stuff in the future with custom items spawning in lockers (like the ADATS spawning in a rifle locker) but I dont think its balanced when the ADATS is guaranteed to spawn with 100 ammo when it's supposed to be 2
