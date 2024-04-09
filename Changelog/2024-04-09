@@ -1,0 +1,12 @@
+SCP SL Specifics:
+  Containment Engineer Scientist can no longer escape to become an MTF member. 
+    The ability to open 106s or 096s room without needing to get a card first is a bit strong (granted its easy to get it anyways but still)
+    The description of the Containment Engineer has been updated to incude that fact
+    Containment Engineer Scientist can still defect to the Chaos Insergency and become a memeber of the Chaos Insurgency
+  Telepathic Chaos can now detect all foes to the Chaos Insurgency (SCPs, SH)
+    Lets be real for the one upside there was basically no benifits as when it spawns in all (or close to all) foundation memebers are dead
+  The Detect Ability will no longer show you code for finding hostiles near you, instead it will properly show you the role (minus UIU as it uses MTF as a base)
+
+  All Custom Roles that has an active ability now shows different activation messages
+    Exiled.CustomRoles is super weird so it eats abilities that has information that needs to be displayed
+    (This hopefully doesnt affect how they work)
