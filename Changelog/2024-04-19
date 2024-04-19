@@ -1,0 +1,12 @@
+SCP SL Specifics:
+	Added the ability for SCP-049-2's to force open doors and pry open gates (like an eneraged 096)
+		The cool down is 3 minutes
+		3 Zombies are required to be near by that door/gate to do such action
+	Zombie's who wants to jump into a bottomless pit or tesla gate will get a new message saying they are techincally dead
+	The Server Info has been updated to have the modern list of plugins, in alphabetical order
+GitHub Specifics:
+	Updated the Plugin List
+	Updated the Custom Roles Section to include the new custom roles
+	Updated the Serpents Hand Section to include the subclasses.
+	Moved the December 20th, 2023 Changelog into the Changelog Folder.
+	Removed DATA MISSING from Discord Specifics, as it was part of an old role hunt that no one did :lmao:

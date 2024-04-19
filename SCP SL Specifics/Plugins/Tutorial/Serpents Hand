@@ -1,6 +1,10 @@
 Serpents Hand:
-Serpents Hand has a 25% chance to spawn during a Chaos Spawn Wave.
-This puts you as a tutorial, with a Crossvec, Chaos Insurgency Hacking Device, Flash Bang, Radio, Medkit, and Combat Armor
+Serpents Hand has a 33% chance to spawn during a Chaos Spawn Wave.
+This puts you as a tutorial as 1 of 3 subclasses.
+Serpents Hand Guardian: Spawns with a Logicer, CI Access Card, Grenade, Flash Bang, Radio, Medkit, and Heavy Armor
+Serpents Hand Enchanter: Spawns with an E-11, CI Access Card, Grenade, Radio, Medkit, and Combat Armor
+Serpents Hand Agent: Spawns with a Crossvec, CI Access Card, Flash Bang, Radio, Medkit, and Combat Armor
+
 This role works with SCPs only. Meaning that your targets are any Foundation Members and Chaos Members.
 This will also prevent the game ending when there is only SCPs and Chaos, meaning they too need to be killed.
 
