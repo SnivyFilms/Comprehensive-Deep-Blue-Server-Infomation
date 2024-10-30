@@ -1,0 +1,23 @@
+SCP SL Specifics
+  Removed Smoke Grenade Plugin
+    This doesn't mean the custom item has been removed
+  Added Snivy's Custom Items Plugin
+    This is the Smoke Grenade's Custom Item new home
+    (WIP) Explosive Round Revolver, using a revolver, where ever the bullet lands, spawns a grenade with a shorter than normal fuse
+      This isn't an explode immediately, as it would just become a better ADATS, as it lacks the flaws of the ADATS.
+        Such as the arch of the grenade, the impact on the wall, etc. as where ever the bullet lands the grenade spawns
+      Currently this is a custom item that can only be given by admin command
+    (WIP) Nerve Agent Grenade
+      When detonated it makes a smoke cloud for a short time, being near this cloud will inflict 1 damage a second, and giving the posioned effect for how ever long you're near the cloud + 30 seconds
+      Currently this is a custom item that can only be given by admin command
+  LJ-429 now has a blue name, like how the previous LJ-119 had.
+  Health on kill values has been altered for SCPs
+    SCP-939: 100 -> 25
+    SCP-096: 300 -> 100
+    SCP-049: 400 -> 200
+    SCP-173: 300 (Unchanged)
+    SCP-106: 0 (Unchanged)
+    SCP-3114: 0 (Unchanged)
+    This is due to the stream that happened really showing that if an SCP can combo players, they basically heal all the damage that is taken.
+    Further changes is on the table.
+  
