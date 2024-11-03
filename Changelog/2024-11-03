@@ -1,0 +1,19 @@
+SCP SL Specifics:
+  Added a new Custom Role Ability:
+    Custom Role Escape:
+      This allows for a Custom Role that escapes to be guaranteed to be given another Custom Role
+  Custom Roles that obtained this ability:
+    Biochemist:
+      Regular Escape: MTF Demolistionist
+      Detained Escape: Explosive Chaos
+    MTF Demolistionist:
+      Detained Escape: Explosive Chaos
+    Explosive Chaos:
+      Detained Escape: MTF Demolistionist
+
+  All Custom Roles now indicate if the abilities they have in the player console [~].
+  Example:
+    Biochemist:
+    Explode on Death [Passive]
+    Custom Role Escape [Passive]
+    Healing Mist [Active]
