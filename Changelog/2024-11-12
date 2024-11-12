@@ -1,0 +1,82 @@
+SCP SL Specifics:
+  Updated the Cassie Text for MTF, UIU, and SH (CI doesnt get any)
+    (All) Linebreaks have been added, so the text will not creep across the entire screen.
+    During a MTF Spawn Wave, it will now include E-XI
+    During a UIU Spawn Wave, it will now include GOI-001
+    During either a MTF or UIU Spawn Wave, it will include the designation of the squad.
+    During a SH Spawn Wave, it will include E-XI initally, along with 2 more periods
+    
+  Snivy's Custom Item Updates:
+    Explosive Revolver has exited the WIP state.
+      Spawn Chances:
+        10% Chance in Micro HID
+        20% Chance in Nuke Armory
+        10% Chance in Heavy Armory
+        20% Chance in 049 Armory
+        10% Chance in 096 Room
+        Spawn Limit of 1.
+      Stats:
+        Clip Size: 2
+        Spawn Grenade Fuse Time: 3 Seconds
+        SCP Damage Multiplier: 0.5
+        Uses Revolver Ammo
+
+    Nerve Agent has exited the WIP State.
+      Spawn Chances:
+        25% Chance in Light Armory
+        25% Chance in Heavy Armory
+        25% Chance in Nuke Armory
+        25% Chance in 049 Armory
+        25% Chance in Surface Nuke Room
+        Spawn Limit of 2.
+      Stats:
+        Appears as: Flashbang
+        Fuse Time: 3
+        Nerve Agent Radius: 5 (from center)
+          Spawns a smoke cloud that pretty much covers that entire radius
+        Nerve Agent Duration: 25 Seconds
+        Nerve Agent Immediate Damage: 1 Per Second
+        Nerve Agent Posion Duration: 30 Seconds after exiting the radius
+      This was Demonseth999's desired grenade
+
+    Phantom Decoy Device (New):
+      Spawn Chances:
+        15% Chance in any normal (misc) locker
+        Spawn Limit of 1.
+      Stats:
+        On use:
+          Blinded Immediately (blurring effect) for 15 seconds
+          After 3 Seconds:
+            Flashed for 5 Seconds
+            Invisible for 5 Seconds
+            Ensnared (cannot move) for 5 Seconds
+            Disabled (slower movement speed) for 1 minute
+            Exhausted (stanima reduced to half) for 15 seconds
+            Amnesia Items (locks out inventory) for 30 seconds
+            Amnesia Vision for 30 seconds
+            Teleports the player somewhere randomly in the zone they are in
+              Be aware this can result in instant death, such as being placed in a Tesla Gate, 939's old room pit, etc.
+            Drops a ragdoll of the player on the ground before they get teleported
+
+    Phantom Lantern (New):
+      Spawn Chances:
+        10% Chance in Micro HID
+        10% Chance in SCP-096s room
+        10% Chance in GR-18
+        10% Chance in SCP-106s room
+        10% Chance in SCP-939s old room
+      Stats:
+        For 2.5 minutes (150 Seconds) the player when the player toggles the lantern:
+          Becomes Invisible
+          Gets Ghostly (Walk through doors)
+          Gets Limited Visibility (Fog Control 5)
+          Slowness 50
+          Amnesia Items
+          Looses all stanima
+        Effect ends if:
+          Interacting with Elevators
+          Interacting with Lockers
+          Interacting with most other things (not doors though)
+          Dying
+          Player Disconnect
+      This was Hedgee's Custom Item Idea.
