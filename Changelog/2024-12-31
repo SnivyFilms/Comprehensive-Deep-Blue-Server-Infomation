@@ -1,0 +1,12 @@
+SCP SL Specifics
+  Readded some broken custom items and roles
+    Tranq: Works, drops players items now
+    C4: Works
+    Forgetme pills: works
+    EMP: Works, now prevents 079 from crashing, instead of sending back to 079 contianment it does what the ghost light does
+    SCP 1499: Works
+
+    Chaos Phantom: Removed Sniper and Vortex Grenade, Added Crossvec
+    Ballistic, Dwarf, Medic Zombies: Works
+
+    (Im working on some other stuff, but thats not until the new year)
